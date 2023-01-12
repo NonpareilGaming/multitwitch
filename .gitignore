@@ -1,2 +1,6 @@
 *.pyc
 multitwitch.egg-info
+
+# Terraform generated files
+*.terraform*
+*terraform.*
